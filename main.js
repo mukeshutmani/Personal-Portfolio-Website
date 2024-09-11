@@ -70,7 +70,6 @@ document.body.classList.add('darkMode')
 switchBtn.checked=true
 } else {
 document.body.classList.add('lightMode')
-switchBtn.checked=false
 }
 
 
